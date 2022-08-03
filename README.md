@@ -8,7 +8,6 @@ Solana programs collection
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Wallets](#wallets)
 - [DeFi](#defi)
 - [Lending Protocols](#lending-protocols)
 - [Web3 Apps](#web3-apps)
@@ -20,49 +19,37 @@ Solana programs collection
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-
-## Wallets
-
-- 💼 [Phantom](https://phantom.app/)
-- 💼 [Solflare](https://solflare.com/)
-- 💼 [Slope](https://slope.finance/)
-- 💼 [Trust Wallet](https://trustwallet.com/)
-
 ## DeFi
 
-- 💵 [Orca](https://www.orca.so/)
-- 💵 [Saber](https://saberlabs.org/)
-- 💵 [01](https://01.xyz/)
-- 💵 [Atrix](https://app.atrix.finance/)
-- 💵 [Drift Protocol](https://www.drift.trade/)
-- 💵 [Mercurial](https://www.mercurial.finance/)
-- 💵 [Raydium](https://raydium.io/)
-- 💵 [Dexlab](https://www.dexlab.space/)
-- 💵 [Jupiter Aggregator](https://jup.ag/)
-- 💵 [Saros](https://saros.finance/)
-- 💵 [Zelcore](https://saros.finance/)
-- 💵 [WOWswap](https://saros.finance/)
-- 💵 [Mango Markets](https://mango.markets/)
-- 💵 [Solrise Finance](https://solrise.finance/)
-- 💵 [Aldrin](https://aldrin.com/)
-- 💵 [Cykura](https://app.cykura.io/#/swap)
-- 💵 [LIQ Protocol](https://liqsolana.com/)
-- 💵 [Cropper](https://cropper.finance/)
-- 💵 [HydraSwap](https://hydraswap.io/)
+- 💵 Orca whirlpool contract
+
+https://github.com/orca-so/whirlpools
+
+- 💵 Saber contracts
+
+https://github.com/saber-hq/merkle-distributor
+
+https://github.com/saber-hq/saber-periphery
+
+- 💵 Mango Markets
+
+https://github.com/blockworks-foundation/mango-v3
+
+- 💵 Cykura
+
+https://github.com/cykura/cykura-protocol
+
+- 💵 Step Finance
+
+https://github.com/step-finance/token-vesting
+
 
 ## Lending Protocols
 
-- 💸 [Solend](https://solend.fi/)
-- 
+
 ## Web3 Apps
 
-- 💊 [Step Finance](https://wowswap.io/)
-- 💊 [Bonfida](https://bonfida.org/)
-- 💊 [Sonar](https://sonar.watch/)
-
-# Identity
 ## Identity
-### Identity
 
 🤖
 
@@ -70,10 +57,11 @@ Solana programs collection
 
 ## NFTs
 
+- 🖼️ Metaplex
+
+https://github.com/metaplex-foundation/metaplex-program-library
+
 ## VR
-
-
-
 
 ## Blockmatic
 
