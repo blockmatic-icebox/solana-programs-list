@@ -15,53 +15,76 @@ Solana programs collection
 - [Social](#social)
 - [NFTs](#nfts)
 - [VR](#vr)
+-  [Random](#random)
 - [Blockmatic](#blockmatic)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## DeFi
 
-- 💵 Orca whirlpool contract
+💵 Orca
 
-https://github.com/orca-so/whirlpools
+- [Whirlpools](https://github.com/orca-so/whirlpools)
 
-- 💵 Saber contracts
+💵 Saber
 
-https://github.com/saber-hq/merkle-distributor
+- [Merkle distributor](https://github.com/saber-hq/merkle-distributor)
 
-https://github.com/saber-hq/saber-periphery
+- [Saber periphery](https://github.com/saber-hq/merkle-distributor)
 
-- 💵 Mango Markets
+💵 Mango Markets
 
-https://github.com/blockworks-foundation/mango-v3
+- [Mango v3 / Decentralized Margin Trading](https://github.com/blockworks-foundation/mango-v3)
 
-- 💵 Cykura
+💵 Cykura
 
-https://github.com/cykura/cykura-protocol
+- [Cykura protocol / Concentrated liquidity](https://github.com/cykura/cykura-protocol)
 
-- 💵 Step Finance
+💵 Step Finance
 
-https://github.com/step-finance/token-vesting
+- [Token vesting](https://github.com/step-finance/token-vesting)
 
+- [Step staking](https://github.com/step-finance/step-staking)
 
 ## Lending Protocols
-
 
 ## Web3 Apps
 
 ## Identity
 
-🤖
-
 ## Social
 
 ## NFTs
 
-- 🖼️ Metaplex
+🖼️ Metaplex
 
-https://github.com/metaplex-foundation/metaplex-program-library
+- [Metaplex](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/metaplex)
+
+- [Candy machine](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/candy-machine)
+
+- [Token vault](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/token-vault)
+
+- [Token entangler](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/token-entangler)
+
+- [Token metadata](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/token-metadata)
+
+- [Auction](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/auction)
+
+- [Auction house](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/auction-house)
+
+- [NFT packs](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/nft-packs)
+
+- [Gumdrop](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/gumdrop)
+
+- [Fixed price sale](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/fixed-price-sale)
 
 ## VR
+
+## Random
+
+🖼️ Atticlab LLC
+
+- [Randomness oracle](https://github.com/atticlab/randomness-oracle)
 
 ## Blockmatic
 
