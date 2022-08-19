@@ -9,8 +9,6 @@ Solana programs collection
 **Table of Contents**
 
 - [DeFi](#defi)
-- [Lending Protocols](#lending-protocols)
-- [Web3 Apps](#web3-apps)
 - [Identity](#identity)
 - [Social](#social)
 - [NFTs](#nfts)
@@ -45,10 +43,6 @@ Solana programs collection
 - [Token vesting](https://github.com/step-finance/token-vesting)
 
 - [Step staking](https://github.com/step-finance/step-staking)
-
-## Lending Protocols
-
-## Web3 Apps
 
 ## Identity
 
