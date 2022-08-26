@@ -44,6 +44,16 @@ Solana programs collection
 
 - [Step staking](https://github.com/step-finance/step-staking)
 
+💵 Marinade
+
+- [Tokadapt](https://github.com/marinade-finance/tokadapt)
+
+- [Maridrop](https://github.com/marinade-finance/maridrop)
+
+💵 Bonfida
+
+- [Token vesting](https://github.com/Bonfida/token-vesting)
+
 ## Identity
 
 ## Social
